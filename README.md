@@ -6,7 +6,7 @@ pip3 install requests
 ```
 # 使用方法：
 ```bash
-python3 91_spider.py
+python3 spider.py
 ```
 # 关于作者
 网站：https://eqblog.com
